@@ -32,7 +32,8 @@ tahini - seasame paste
 
 ### Istanbul
 
-Largest city
+The largest city in Turkey which is divided into the European section and the
+Asian section.
 
 ### Ankara
 
