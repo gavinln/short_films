@@ -27,7 +27,7 @@ The smaller camera looks more [zoomed][120] in compared to larger camera.
 
 [120]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=154s
 
-### 50mm. 31mm, 25mm
+### 50mm, 31mm, 25mm
 
 The size of the picture looks the [same][130].
 
