@@ -15,6 +15,12 @@ The full-frame camera body is the [largest][110].
 
 Compares full-frame, APS-C, Micro 4/3
 
+### Crop factor
+
+    * Full-frame 1x
+    * APS-C 1.6x
+    * Micro 4/3 2x
+
 ### 50m lens on all three
 
 The smaller camera looks more [zoomed][120] in compared to larger camera.
