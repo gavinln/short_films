@@ -1,4 +1,4 @@
-# Do you need full frame
+# Do you need full frame?
 
 This [video][100] compares full-frame, APS-C and Micro 4/3 cameras and is very
 popular with about 1 million view.
@@ -21,7 +21,7 @@ Compares full-frame, APS-C, Micro 4/3
     * APS-C 1.6x
     * Micro 4/3 2x
 
-### 50m lens on all three
+### 50mm lens on all three
 
 The smaller camera looks more [zoomed][120] in compared to larger camera.
 
