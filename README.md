@@ -33,3 +33,35 @@ The size of the picture looks the [same][130].
 
 [130]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=259s
 
+### Background blur with f/4
+
+Full-frame camera has the most [background blur][140]
+
+[140]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=270s
+
+### Background blur with f/4, f/2.5, f/2
+
+[Similar background blur][150] using different f stops.
+
+[150]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=270s
+
+### ISO adjustment
+
+The ISO setting is [adjusted][160] to keep equal brightness.
+
+[160]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=410s
+
+### Availability of lenses
+
+Some lenses available for full-frame may not exists for smaller cameras. Or
+they may be too expensive.
+
+[170]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=505s
+
+## Important points
+
+1. Sensor size does not [affect the brightness][1000] or the exposure of your image
+
+[1000]: https://www.youtube.com/watch?v=hi_CkZ0sGAw&t=140s
+
+
