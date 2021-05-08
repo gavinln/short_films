@@ -8,11 +8,7 @@
 
 1. Programming with Python (1 of 44) 4:18
 
-https://www.youtube.com/watch?v=7XOhibxgBlQ&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=1
-
 2. Introducing Python (2 of 44) 3:10
-
-https://www.youtube.com/watch?v=7XOhibxgBlQ&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=2
 
 3. Getting Started (3 of 44) 2:58
 
