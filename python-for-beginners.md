@@ -16,6 +16,8 @@
 
 5. Using Print (5 of 44) 3:29
 
+* How do you print a string with quotes?
+
 6. Demo: Hello World (6 of 44) 6:00
 
 7. Comments (7 of 44) 3:04
