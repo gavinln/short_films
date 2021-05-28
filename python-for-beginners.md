@@ -1,5 +1,10 @@
 # Python for Beginners
 
+## Shortcuts
+
+* Ctrl + K + C - comment line of code
+* Ctrl + K + U - uncomment line of code
+
 ## Python for Beginners
 
 [44 video series][10]
@@ -16,21 +21,49 @@
 
 5. Using Print (5 of 44) 3:29
 
-* How do you print a string with quotes?
+a. Should you use single or double quotes?
+b. How do you print blank lines?
+c. How do you print Ceaser said: "Veni, Vidi, Vici" which means "I came, I saw,
+    I conquered".
 
 6. Demo: Hello World (6 of 44) 6:00
 
+a. How do you add a new line in a string?
+
 7. Comments (7 of 44) 3:04
+
+a. How do you comment multiple lines of code at once?
+b. If comments do not do anything, why do you need to add them?
 
 8. Demo: Comments (8 of 44) 2:28
 
 9. String Concepts (9 of 44) 4:41
+
+a. Should you use single quotes or double quotes for strings?
+b. How do you concatenate two strings variables?
+c. How do you concatenate two string literals?
+d. How do you concatenate very long strings that do not fit on one line?
 
 10. Demo: Strings (10 of 44) 4:29
 
 11. Formatting Strings (11 of 44) 4:09
 
 12. Demo: Formatting Strings (12 of 44) 3:49
+
+a. Is it better to format strings based on implicit or explicit order?
+
+```python
+first_name = 'Alice'
+last_name = 'Smith'
+'Hello {} {}'.format(first_name, last_name)
+'Hello {0} {1}'.format(first_name, last_name)
+```
+
+b. What are the advantages of formatted string over the above two options?
+
+```python
+f'Hello {first_name} {last_name}'
+```
 
 13. Numeric Data Types (13 of 44) 5:51
 
@@ -59,6 +92,8 @@
 25. Collections (25 of 44) 11:27
 
 26. Demo: Collections (26 of 44) 4:02
+
+Quiz: https://www.w3schools.com/python/python_quiz.asp 
 
 27. Loops (27 of 44) 5:30
 
@@ -95,4 +130,3 @@
 43. Demo: Decorators (43 of 44) 2:19
 
 44. Next Steps (44 of 44) 5:03
-
