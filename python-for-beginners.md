@@ -55,14 +55,14 @@
 ```python
 first_name = 'Alice'
 last_name = 'Smith'
-'Hello {} {}'.format(first_name, last_name)
-'Hello {0} {1}'.format(first_name, last_name)
+print('Hello {} {}'.format(first_name, last_name))  # implicit order
+print('Hello {0} {1}'.format(first_name, last_name))  # explicit order
 ```
 
 2. What are the advantages of formatted string over the above two options?
 
 ```python
-f'Hello {first_name} {last_name}'
+print(f'Hello {first_name} {last_name}')
 ```
 
 ### 13. Numeric Data Types (13 of 44) 5:51
